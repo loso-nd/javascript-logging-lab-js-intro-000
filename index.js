@@ -1,1 +1,3 @@
-d
+function index(){
+  console.error();
+}
